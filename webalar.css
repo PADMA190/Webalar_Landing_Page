@@ -192,12 +192,7 @@ body{
 .discover:hover{
     transform: translateX(-10px);
 }
-.support{
-    transition:transform 450ms;
-}
-.support:hover{
-    translate:translateY(10px);
-}
+
 h4 {
     cursor: pointer;
     color: rgb(60, 60, 60);
